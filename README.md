@@ -1,4 +1,4 @@
-# [Source of this List] (https://github.com/golang/go/wiki/Projects)
+# [Source of this List](https://github.com/golang/go/wiki/Projects)
 
 # Indexes and search engines
 
