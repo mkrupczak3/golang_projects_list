@@ -1,3 +1,5 @@
+# [Source of this List] (https://github.com/golang/go/wiki/Projects)
+
 # Indexes and search engines
 
 These sites provide indexes and search engines for Go packages:
